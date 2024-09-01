@@ -43,5 +43,5 @@ Open your browser and hit this url:
 ```
 localhost:8000/weather/city_name
 ```
-Project URL: https://github.com/Darshan016/go-weather-tracker
+Solution for: https://roadmap.sh/projects/weather-api-wrapper-service
 Feel free to contribute.
